@@ -4,7 +4,7 @@ NASA Picture of The Day API and NASA Search Library API (WIP)
 
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [AvailableScripts](#Availble Scripts)
+* [Available Scripts](#availablescripts)
 
 ## Technologies
 * Javascript
