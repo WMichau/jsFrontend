@@ -2,6 +2,7 @@ NASA Picture of The Day API and NASA Search Library API (WIP)
 
 ## Table of contents
 
+* [General Info](#generalinfo)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Available Scripts](#availablescripts)
