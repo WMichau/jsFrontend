@@ -1,11 +1,10 @@
-# Project Name
 NASA Picture of The Day API and NASA Search Library API (WIP)
 
 ## Table of contents
 
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Available Scripts](#Availble Scripts)
+* [AvailableScripts](#Availble Scripts)
 
 ## Technologies
 * Javascript
