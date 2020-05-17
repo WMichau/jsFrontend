@@ -1,4 +1,4 @@
-NASA Picture of The Day API and NASA Search Library API (WIP)
+NASA Picture of The Day API, NASA Image Search Library API(WIP)
 
 ## Table of contents
 
@@ -6,6 +6,9 @@ NASA Picture of The Day API and NASA Search Library API (WIP)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Available Scripts](#availablescripts)
+
+## General Info
+Searching images component is not working as inteded
 
 ## Technologies
 * Javascript
