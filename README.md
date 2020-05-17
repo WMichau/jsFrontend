@@ -8,7 +8,7 @@ NASA Picture of The Day API, NASA Image Search Library API(WIP)
 * [Available Scripts](#availablescripts)
 
 ## General Info
-Searching images component is not working as inteded
+Searching images component is not working as intendent
 
 ## Technologies
 * Javascript
